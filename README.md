@@ -1,4 +1,5 @@
-![logo](https://github.com/J-YOGESH19/J-YOGESH19/commit/7918c6143d8fe9c2caeca0eae5ad9249f9f75d81)
+<img src="https://raw.githubusercontent.com/J-YOGESH19/J-YOGESH19/main/assets/banner.png" alt="GitHub banner" style="width:100%;" />
+
 <h1 align="center">Hi 👋, I'm YOGESH J</h1>
 
 <p align="center">
