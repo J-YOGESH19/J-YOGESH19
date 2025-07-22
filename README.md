@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/J-YOGESH19/J-YOGESH19/main/assets/banner.png" alt="GitHub banner" style="width:100%;" />
+![logo](https://github.com/J-YOGESH19/J-YOGESH19/blob/main/2.jpg)
 
 <h1 align="center">Hi 👋, I'm YOGESH J</h1>
 
