@@ -67,3 +67,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=j-yogesh19&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile-views" />
 </p>
+
+![snake gif](https://github.com/J-YOGESH19/J-YOGESH19/blob/output/github-snake-dark.svg)
+
+
