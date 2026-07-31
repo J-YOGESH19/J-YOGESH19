@@ -4,7 +4,7 @@
 
 # 🚀 Hi there, I'm **YOGESH J**
 
-### 💻 Full Stack Developer | Problem Solver | Open Source Enthusiast | Tech Innovator
+### Computer Science Student | Software Engineering Enthusiast | Full-Stack Developer | DSA Learner
 
 </div>
 
