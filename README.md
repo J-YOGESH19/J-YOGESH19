@@ -252,11 +252,9 @@ Check out my [**GitHub Repository**](https://github.com/j-yogesh19?tab=repositor
 <div align="center">
 
 - 🎵 I debug better with **music** 🎧
-- ☕ Coffee is my debugging companion
 - 🎮 Occasional gamer
 - 🌍 Tech enthusiast exploring emerging technologies
-- 💪 Open source advocate
-- 📱 Mobile app development enthusiast
+
 
 </div>
 
