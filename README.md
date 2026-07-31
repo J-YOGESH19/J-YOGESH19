@@ -48,7 +48,7 @@ I'm a passionate **Computer Science Engineering student** at **Vel Tech Universi
 
 <div align="center">
 
-[![Twitter]([https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/jyogesh19](https://x.com/J_Yogesh19))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/jyogesh19](https://x.com/J_Yogesh19)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/yogesh-j)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:j.yogesh2025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/j-yogesh19)
