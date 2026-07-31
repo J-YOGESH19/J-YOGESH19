@@ -30,7 +30,7 @@ I'm a passionate **Computer Science Engineering student** at **Vel Tech Universi
 
 **Key Highlights:**
 - 🎓 B.Tech CSE Student at Vel Tech University
-- 💻 Full Stack Developer in Progress
+- 💻 Full Stack Developer 
 - 🧠 Strong problem-solving skills
 - 🚀 Passionate about technology and innovation
 - 📚 Self-learner and always exploring new tech
