@@ -48,11 +48,10 @@ I'm a passionate **Computer Science Engineering student** at **Vel Tech Universi
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/jyogesh19](https://x.com/J_Yogesh19)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/yogesh-j)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:j.yogesh2025@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/J_Yogesh19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/yogesh-j-2555b6352/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](https://mail.google.com/mail/?view=cm&fs=1&to=j.yogesh2025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/j-yogesh19)
-[![Website](https://img.shields.io/badge/Website-FF7F3F?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7F3F)](https://j-yogesh19.github.io)
 
 </div>
 
@@ -81,13 +80,14 @@ I'm a passionate **Computer Science Engineering student** at **Vel Tech Universi
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 ### 🗄️ Databases & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -101,22 +101,7 @@ I'm a passionate **Computer Science Engineering student** at **Vel Tech Universi
 
 </div>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=j-yogesh19&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff7f3f&icon_color=ff7f3f&text_color=c9d1d9&border_color=30363d&rank_icon=percentile" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-yogesh19&layout=compact&theme=dark&bg_color=0d1117&title_color=ff7f3f&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -190,7 +175,7 @@ Version Control        █████████░ 90%
 |----------|--------|-------|
 | **Languages** | C, Java, Python, JavaScript | ⭐⭐⭐⭐ |
 | **Frontend** | HTML, CSS, React | ⭐⭐⭐⭐ |
-| **Databases** | MySQL, Basic SQL | ⭐⭐⭐ |
+| **Databases** | MySQL, MongoDB, Basic SQL | ⭐⭐⭐ |
 | **Tools** | Git, GitHub, VS Code | ⭐⭐⭐⭐⭐ |
 | **DSA** | Arrays, Strings, Trees, Graphs | ⭐⭐⭐⭐ |
 
@@ -301,9 +286,9 @@ I'm always excited to collaborate on interesting projects, discuss tech innovati
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/📧%20Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.yogesh2025@gmail.com)
-[![Schedule a Call](https://img.shields.io/badge/💬%20Chat%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-j)
-[![Follow on Twitter](https://img.shields.io/badge/🐦%20Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jyogesh19)
+[![Email Me](https://img.shields.io/badge/📧%20Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=j.yogesh2025@gmail.com)
+[![Schedule a Call](https://img.shields.io/badge/💬%20Chat%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-j-2555b6352/)
+[![Follow on Twitter](https://img.shields.io/badge/🐦%20Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/J_Yogesh19)
 
 </div>
 
