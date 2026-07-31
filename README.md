@@ -316,8 +316,8 @@ I'm always excited to collaborate on interesting projects, discuss tech innovati
 
 <div align="center">
 
-### Made with ❤️ by YOGESH J | © 2024
+Thanks for stopping by — feel free to reach out anytime.
 
-**Last Updated:** March 2025
+**YOGESH J**
 
 </div>
