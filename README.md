@@ -183,22 +183,6 @@ Version Control        █████████░ 90%
 
 ---
 
-## 📚 Learning Roadmap
-
-<div align="center">
-
-### Current Focus
-- ✅ Advanced React (Hooks, Context API, Redux)
-- ✅ Backend Development (Node.js, Express)
-- ✅ Database Optimization
-
-### Next Level
-- 📋 Full Stack MERN Stack
-- 📋 Cloud Deployment & DevOps
-- 📋 System Design & Architecture
-
-</div>
-
 ---
 
 ## 💡 Projects & Work
